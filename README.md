@@ -28,5 +28,5 @@ This is a collection of simple yet functional GUI tools — all built using the 
 
 ---
 
-   git clone https://github.com/yourusername/pygame-utility-tools.git
+   git clone https://github.com/yourusername/GUI_with_python.git
    cd pygame-utility-tools
