@@ -1,6 +1,6 @@
 # 🧰 Utility Projects using Pygame (Notepad, Calculator, Password Store)
 
-This is a collection of simple yet functional GUI tools — all built using the **Pygame** library in Python. While Pygame is typically used for game development, this project explores its use for building creative desktop utilities.
+This is a collection of simple yet functional GUI tools — all built using the **Thinter** library in Python.
 
 ---
 
@@ -23,10 +23,10 @@ This is a collection of simple yet functional GUI tools — all built using the 
 ## 🛠️ Technologies Used
 
 - **Python 3.x**
-- **Pygame** – for building the GUI components and handling input/output
+- **Tkinter** – for building the GUI components and handling input/output
 - `os`, `pickle`, or `hashlib` – for saving files and (optional) encryption
 
 ---
 
    git clone https://github.com/yourusername/GUI_with_python.git
-   cd pygame-utility-tools
+   cd GUI_with_python
